@@ -19,7 +19,7 @@ func _process(delta):
 	if(Input.is_action_just_released("Rotate")):
 		rotating= false
 	if(rotating):
-		print_debug(next_mouse.x-prev_mouse.x)
+		#print_debug(next_mouse.x-prev_mouse.x)
 		
 		rotate_y(((next_mouse.x-prev_mouse.x)*pow(abs((next_mouse.x-prev_mouse.x)),rotato))*.1* delta)
 		rotate_x(((next_mouse.y-prev_mouse.y)*pow(abs((next_mouse.y-prev_mouse.y)),rotato))*.1* delta)
