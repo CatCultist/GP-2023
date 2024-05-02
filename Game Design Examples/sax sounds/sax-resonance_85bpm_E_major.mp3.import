@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cbto02syfkegw"
+path="res://.godot/imported/sax-resonance_85bpm_E_major.mp3-9189ec262fd61f4349268c17042d8dc2.mp3str"
+
+[deps]
+
+source_file="res://sax sounds/sax-resonance_85bpm_E_major.mp3"
+dest_files=["res://.godot/imported/sax-resonance_85bpm_E_major.mp3-9189ec262fd61f4349268c17042d8dc2.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

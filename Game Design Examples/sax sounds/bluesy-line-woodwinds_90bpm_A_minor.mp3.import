@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cblge6h3q62w2"
+path="res://.godot/imported/bluesy-line-woodwinds_90bpm_A_minor.mp3-65acd3e1c49ac47b68a51e742bbb36eb.mp3str"
+
+[deps]
+
+source_file="res://sax sounds/bluesy-line-woodwinds_90bpm_A_minor.mp3"
+dest_files=["res://.godot/imported/bluesy-line-woodwinds_90bpm_A_minor.mp3-65acd3e1c49ac47b68a51e742bbb36eb.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

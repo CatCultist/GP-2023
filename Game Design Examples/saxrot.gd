@@ -1,4 +1,4 @@
-extends MeshInstance3D
+extends Node3D
 var rotating = false
 var prev_mouse:Vector2
 var next_mouse: Vector2
